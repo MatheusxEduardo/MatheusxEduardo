@@ -1,10 +1,13 @@
-  <h1 align="center"><img src="https://github.com/kaueMarques/kaueMarques/blob/master/hi.gif?raw=true" height="30"width="30px"> Olá! meu nome é Matheus Eduardo</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=638FDA&height=180&section=header&text=Olá+👋🏽&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-- 📖 Estudando desenvolvimento web - 📖
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=My+Name+is+Matheus+Eduardo+Siqueira+Oliveira;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 🧑🏽‍💻 Javascript, HTML, CSS, SQL, Node.js, ReactJs - 🧑
+- 📖 <strong>Estudando desenvolvimento web</strong> - 📖
 
-- 🔎 Não atuo na área, Atualmente estou desenvolvendo projetos pessoais - 🔎
+- 🧑🏽‍💻 <strong>Javascript, HTML, CSS, SQL, Node.js, ReactJs</strong> - 🧑🏽‍💻
+
+- 🔎 <strong>Não atuo na área, Atualmente estou desenvolvendo projetos pessoais</strong> - 🔎
 
 <br>
 
@@ -24,12 +27,12 @@
   <img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> 
-   
+   <img align="center" alt="github"  src="https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/04/react-svg-component-library-1.gif?ssl=1"/> 
 </div>
 <hr>
-
-
   
-  ![Snake animation](https://github.com/MatheusxEduardo/MatheusxEduardo/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/MatheusxEduardo/MatheusxEduardo/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+<hr>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=638FDA&height=120&section=footer"/>
