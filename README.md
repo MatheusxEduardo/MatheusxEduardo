@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=638FDA&height=180&section=header&text=Olá+👋🏽&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=My+Name+is+Matheus+Eduardo+Siqueira+Oliveira;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 📖 <strong>Estudando desenvolvimento web</strong> - 📖
@@ -27,7 +26,6 @@
   <img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> 
-   <img align="center" alt="github"  src="https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/04/react-svg-component-library-1.gif?ssl=1"/> 
 </div>
 <hr>
   
