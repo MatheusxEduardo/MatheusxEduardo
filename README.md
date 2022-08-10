@@ -28,6 +28,9 @@
   <img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> 
 </div>
 <hr>
+  <div align="right" valign="top">
+   <img align="center" alt="github" height="30" width="40" src="https://media3.giphy.com/media/26FmQ6EOvLxp6cWyY/giphy.gif?cid=ecf05e4796hiy9r106cib6c81idu4vk4n7fjlm73570516v5&rid=giphy.gif&ct=g"/> 
+  </div>
   
  ![Snake animation](https://github.com/MatheusxEduardo/MatheusxEduardo/blob/output/github-contribution-grid-snake.svg)
   
