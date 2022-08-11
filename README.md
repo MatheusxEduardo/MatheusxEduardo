@@ -31,19 +31,21 @@
 - ⚙️ <strong>GitHub Analytics</strong> - ⚙️
 <hr>
 
-<div align="left">
+<div align="center">
 
   <a href="https://github.com/MatheusxEduardo">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusxEduardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusxEduardo&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusxEduardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusxEduardo&layout=compact&langs_count=7&theme=tokyonight"/>
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusxeduardo&layout=compact&langs_count=7&theme=tokyonight" alt="matheusxeduardo" />
   </div>  
   
   <br>
   
  <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusxeduardo&layout=compact&langs_count=7&theme=tokyonight" alt="matheusxeduardo" /></p>
+  <p></p>
 </div>
 
 <hr>
