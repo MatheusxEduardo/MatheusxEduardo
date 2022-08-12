@@ -6,7 +6,7 @@
 <hr>
 
 
- <img align="right" alt="github" width="250" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/> 
+ <img align="right" alt="github" width="200" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/> 
 
 <div align="left">
 
@@ -49,9 +49,6 @@
 </div>
 
 <hr>
-  <div align="right" valign="top">
-   <img align="center" alt="github" height="30" width="40" src="https://media3.giphy.com/media/26FmQ6EOvLxp6cWyY/giphy.gif?cid=ecf05e4796hiy9r106cib6c81idu4vk4n7fjlm73570516v5&rid=giphy.gif&ct=g"/> 
-  </div>
   
  ![Snake animation](https://github.com/MatheusxEduardo/MatheusxEduardo/blob/output/github-contribution-grid-snake.svg)
   
