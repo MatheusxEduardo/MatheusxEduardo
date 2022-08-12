@@ -12,7 +12,7 @@
 
 <div align="left">
 
-- 📖 <strong> Atualmente estou estudando desenvolvimento web full-stack</strong> - 📖
+- 📖 <strong> Atualmente estudando desenvolvimento web full-stack</strong> - 📖
 
 - 🧑🏽‍💻 <strong>Javascript, HTML, CSS, SQL, Node.js, ReactJs</strong> - 🧑🏽‍💻
 
