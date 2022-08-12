@@ -30,7 +30,7 @@
 
 <br>
 
-- ⚙️ <strong>GitHub Analytics</strong> - ⚙️
+- ⚙️ <strong> GitHub Analytics </strong> - ⚙️
 <hr>
 
 <div align="center">
