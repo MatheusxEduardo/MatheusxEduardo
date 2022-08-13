@@ -39,16 +39,18 @@
   
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusxEduardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusxEduardo&layout=compact&langs_count=7&theme=tokyonight"/>
+  <br>
   
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusxeduardo&layout=compact&langs_count=7&theme=tokyonight" alt="matheusxeduardo" />
-  </div>  
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusxEduardo&layout=compact&langs_count=7&theme=tokyonight"/>
   
   <br>
   
- <div align="center">
-  <p></p>
-</div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusxeduardo&layout=compact&langs_count=7&theme=tokyonight" alt="matheusxeduardo" />
+  
+  <br>
+  </div>  
+  
+  <br>
 
 <hr>
   
