@@ -16,7 +16,7 @@
 
 - 🧑🏽‍💻 <strong>Javascript, HTML, CSS, SQL, Node.js, ReactJs</strong> - 🧑🏽‍💻
 
-- 🔎 <strong>Não atuo na área, Atualmente estou desenvolvendo projetos pessoais</strong> - 🔎
+- 🔎 <strong>Atualmente estou desenvolvendo projetos pessoais</strong> - 🔎
 
 <h3 align="left">Languages and Tools:</h3>
 
