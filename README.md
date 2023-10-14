@@ -23,7 +23,7 @@
 
 <div align="center">
  
- [![Skills](https://devicons.dev.br/icons?icon=Ruby,rails,JavaScript,TypeScript,NodeJS,Git,Github,HTML,Bootstrap,CSS,VSCode,Linux,Wordpressalign="center"&size=40&theme=dark)](https://devicons.dev.br/)
+ [![Skills](https://devicons.dev.br/icons?icon=Ruby,rails,JavaScript,TypeScript,NodeJS,Git\n,Github,HTML,Bootstrap,CSS,VSCode,Linux,Wordpressalign="center"&size=40&theme=dark)](https://devicons.dev.br/)
 </div>
 
 
