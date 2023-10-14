@@ -33,7 +33,6 @@
 
 </div>
 
-<br>
 
 <div  align="center">
   <h3> GitHub Analytics </h3> <br>
