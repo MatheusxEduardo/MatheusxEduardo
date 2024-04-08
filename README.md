@@ -13,12 +13,12 @@
 
 <div align="center">
  
- [![Skills](https://devicons.dev.br/icons?icon=Ruby,rails,Wordpressalign="center"&size=40&theme=dark)](https://devicons.dev.br/)
+ [![Skills](https://devicons.dev.br/icons?icon=Ruby,rails,Wordpressalign="center"&size=50&theme=dark)](https://devicons.dev.br/)
 </div>
 
 <div align="center">
  
- [![Skills](https://devicons.dev.br/icons?icon=Git,Github,Linux,Wordpressalign="center"&size=40&theme=dark)](https://devicons.dev.br/)
+ [![Skills](https://devicons.dev.br/icons?icon=Git,Github,Linux,Wordpressalign="center"&size=50&theme=dark)](https://devicons.dev.br/)
 </div>
 
 </div>
@@ -43,4 +43,4 @@
   
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=638FDA&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=638FDA&height=110&section=footer"/>
