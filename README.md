@@ -1,11 +1,11 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=638FDA&height=180&section=header&text=+&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=638FDA&height=110&section=header&text=+&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 
 
 <div align="left">
 
- <p> 📖 Olá! Meu nome é Matheus gosto de tecnologia desde a infância, quando conheci o xadrez online. Nos últimos dois anos, foquei na programação em si, estudando um pouco de C++, Estudei Javascript, Node.js e Typescript. Além de, Git e GitHub. Atualmente, estou focado em Ruby e Ruby on Rails na area Back-end.</p> 
+ <p> 📖 Gosto de tecnologia desde a infância, quando conheci o xadrez online. Nos últimos dois anos, foquei na programação em si, estudando um pouco de C++, Estudei Javascript, Node.js e Typescript. Além de, Git e GitHub. Atualmente, estou focado em Ruby e Ruby on Rails na area Back-end.</p> 
 
 <hr></hr>
 
