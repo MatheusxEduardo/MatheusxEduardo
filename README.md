@@ -5,17 +5,7 @@
 
 <div align="left">
 
- <p> - 📖  Olá! Sou o Matheus, intusiasta e interessado por desenvolvimento.<br> <br> Meu primeiro programação começou com um computador antigo rodando linux, após sofrer para abandonar as interfaces do windows começei a melhorar com o terminal e busquei saber mais sobre a area, e conheci a programação, um tempo depois consegui alguns códigos simples em c++ como algumas calculadoras para o mercadinho de casa, cheguei a programar pequenos jogos mais nada muito além disto. Também já me aventurei pelo python. <br>Como boa parte dos desenvolvedores front-end, estudei Html CSS e JAva Script Arduamente, o que me levou posteriormente conhecer a maravilha do TypeScript, e desde então expandi meu conhecimento para outras tecnologias e linguagens. Aqui estão algumas das minhas áreas de interesses:</p> 
-
-- 🧑🏽‍💻 <p> **HTML/CSS**: Tenho experiência sólida em HTML e CSS, o que me permite criar designs atraentes para a web.
-
-- **Git/GitHub**: Uso o Git para controle de versão e sou ativo no GitHub, onde compartilho projetos pessoais e contribuo para projetos de código aberto.
-- **Node.js**: Trabalho com Node.js para desenvolver aplicações server-side e ferramentas de automação. Gosto de explorar as bibliotecas e frameworks disponíveis no ecossistema Node.js.
-
-- **JavaScript/TypeScript**:Uso JavaScript e TypeScript para criar aplicações web mais robustas e escaláveis.
-
-- **Ruby/RubyonRails**: Estou investindo na aprendizagem de Ruby e Ruby on rails para criar  proejtos aplicações web mais robustas e escaláveis.
- </strong> - 🧑🏽‍💻
+ <p> 📖 Olá! Meu nome é Matheus gosto de tecnologia desde a infância, quando conheci o xadrez online. Nos últimos dois anos, foquei na programação em si, estudando um pouco de C++, Estudei Javascript, Node.js e Typescript. Além de, Git e GitHub. Atualmente, estou focado em Ruby e Ruby on Rails na area Back-end.</p> 
 
 <hr></hr>
 
@@ -23,12 +13,12 @@
 
 <div align="center">
  
- [![Skills](https://devicons.dev.br/icons?icon=Ruby,rails,JavaScript,TypeScript,NodeJS,Wordpressalign="center"&size=40&theme=dark)](https://devicons.dev.br/)
+ [![Skills](https://devicons.dev.br/icons?icon=Ruby,rails,Wordpressalign="center"&size=40&theme=dark)](https://devicons.dev.br/)
 </div>
 
 <div align="center">
  
- [![Skills](https://devicons.dev.br/icons?icon=Git,Github,HTML,Bootstrap,CSS,VSCode,Linux,Wordpressalign="center"&size=40&theme=dark)](https://devicons.dev.br/)
+ [![Skills](https://devicons.dev.br/icons?icon=Git,Github,Linux,Wordpressalign="center"&size=40&theme=dark)](https://devicons.dev.br/)
 </div>
 
 </div>
