@@ -61,6 +61,10 @@
 
 </div>
 
+![snake gif](https://github.com/MatheusxEduardo/MatheusxEduardo/blob/output/github-contribution-grid-snake.svg)
+
+###
+
 <hr>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=638FDA&height=110&section=footer"/>
