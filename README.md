@@ -1,8 +1,8 @@
 # Sobre mim 💬 :
 
-<h2>- Programador Ruby, Ruby on Rails ♦️</h2> 
-
-
+<h4>Desde criança, sempre gostei de tecnologia. Nos últimos dois anos, decidi direcionar meu foco para a programação. Iniciei meus estudos com C++, mas logo me aprofundei em JavaScript e Node.js. Além disso, adquiri conhecimento sobre o uso do Git e GitHub, porém meu foco agora é o desenvolvimento em ruby.<h4/>
+ 
+<h3> - Programador Ruby, Ruby on Rails ♦️</h3> 
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
@@ -68,4 +68,3 @@
 
 <hr>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=638FDA&height=110&section=footer"/>
