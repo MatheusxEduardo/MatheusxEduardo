@@ -1,29 +1,24 @@
 # Sobre mim 💬 :
 
-<h4>Desde criança, sempre gostei de tecnologia. Nos últimos dois anos, decidi direcionar meu foco para a programação. Iniciei meus estudos com C++, mas logo me aprofundei em JavaScript e Node.js. Além disso, adquiri conhecimento sobre o uso do Git e GitHub, porém meu foco agora é o desenvolvimento em ruby.<h4/>
+<h4 align:center>⚡ Atualmente estou me aprofundando com foco em desenvolvimento back-end Javascript e Node.js Tenho familiaridade com ruby e RoR. 
+<h4/>
  
-<h3> - Programador Ruby, Ruby on Rails ♦️</h3> 
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 ### - Estudando :
-- ✨	Ruby, Ruby on Rails
-- ✨ Banco de dados
+- ✨	JavaScript (Node.js): Construindo APIs RESTful 
+- 🐘 PostgreSQL
+- 💻 Desenvolvendo projetos pessoais
+- 👨‍💻 Análise e Desenvolvimento de Sistemas
 
 ### - Hobbies : 
-- ✨ Jogar Xadrez
-- ✨ Filosofia
-- ✨ Ficção
-
+- ♟️ Xadrez
+- 💪 Esportes
+- 🎲 RPG
 </br>
-</br>
-
  <hr>
-
-<h3 align="center">Languages and Tools:</h3> <br>
-
-
-
+<h2 align="center">Languages and Tools:</h2> 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ruby" height="45" alt="ruby logo"  />
   <img width="5" />
@@ -34,6 +29,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  /> 
+ <br>
   <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
@@ -45,25 +41,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
 </div>
 <hr>
-
-
-<h3 align="center">  📊 Github Stats </h3> <br>
+<h2 align="center">  📊 Github Stats </h2>
 
 <div align="center">
 
 <a href='https://github.com/MatheusxEduardo/github-stats-transparent'>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusxEduardo&show_icons=true&theme=radical)
+<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusxEduardo&layout=compact&show_icons=true&theme=radical)
 
 </a>
 
-</div>
 
-![Snake animation](https://github.com/MatheusxEduardo/MatheusxEduardo/blob/output/github-contribution-grid-snake.svg)
-
-
-###
-
-<hr>
 
