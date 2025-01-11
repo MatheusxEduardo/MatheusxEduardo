@@ -29,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  /> 
- <br>
+ 
   <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
@@ -43,16 +43,20 @@
 <hr>
 <h2 align="center">  📊 Github Stats </h2>
 
-<div align="center">
+
 
 <a href='https://github.com/MatheusxEduardo/github-stats-transparent'>
+
+ <div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusxEduardo&layout=compact&show_icons=true&theme=radical)
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusxEduardo&show_icons=true&theme=radical)
-<br>
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusxEduardo&layout=compact&show_icons=true&theme=radical)
 
-</a>
 
+ </div>
 
 
