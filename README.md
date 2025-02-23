@@ -4,7 +4,7 @@
 
  <div align="left">
 
- <img hight="170" width="350" alt="GIF" align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhoMTJxZTR5NmFqaHhvZXh2b3dmdDlmbTZ1N3Qzdmw2aDdzb3l1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ihrvec6q42Y0CdkSFn/giphy.gif">
+ <img hight="160" width="350" alt="GIF" align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhoMTJxZTR5NmFqaHhvZXh2b3dmdDlmbTZ1N3Qzdmw2aDdzb3l1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ihrvec6q42Y0CdkSFn/giphy.gif">
 
 ### - Estudando :
 - 💻 Desenvolvendo projetos pessoais
