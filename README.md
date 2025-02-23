@@ -1,6 +1,6 @@
 # Sobre mim 💬 :
 
-<h4 align:center>⚡ Atualmente estou me aprofundando com foco em desenvolvimento back-end Javascript e Node.js Tenho familiaridade com ruby e RoR. 
+<h4 align:center>⚡ Desenvolvedor back-end Node, ruby e RoR. 
 <h4/>
 
  <div align="left">
@@ -8,8 +8,6 @@
  <img hight="180" width="350" alt="GIF" align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhoMTJxZTR5NmFqaHhvZXh2b3dmdDlmbTZ1N3Qzdmw2aDdzb3l1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ihrvec6q42Y0CdkSFn/giphy.gif">
 
 ### - Estudando :
-- ✨	JavaScript (Node.js): Construindo APIs RESTful 
-- 🐘 PostgreSQL
 - 💻 Desenvolvendo projetos pessoais
 - 👨‍💻 Análise e Desenvolvimento de Sistemas
 
