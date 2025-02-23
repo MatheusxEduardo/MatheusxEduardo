@@ -38,6 +38,7 @@
   <img width="10" />
   <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge" height="30" alt="ruby logo"  />
   <img width="10" />
+ <br>
   <img src="https://img.shields.io/badge/Ruby on Rails-CC0000?logo=rubyonrails&logoColor=white&style=for-the-badge" height="30" alt="rails logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
@@ -51,6 +52,10 @@
   <a href="matheusxeduardox@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="microsoft-outlook logo"  />
   </a>
+
+ <a href="https://leetcode.com/MatheusXedu/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=2D2D2D&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="leetcode logo"  />
+</a>
 </div>
 
 ###
