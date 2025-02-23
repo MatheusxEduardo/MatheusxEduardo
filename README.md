@@ -1,11 +1,10 @@
 # Sobre mim 💬 :
-
 <h4 align:center>⚡ Desenvolvedor back-end Node, ruby e RoR. 
 <h4/>
 
  <div align="left">
 
- <img hight="180" width="350" alt="GIF" align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhoMTJxZTR5NmFqaHhvZXh2b3dmdDlmbTZ1N3Qzdmw2aDdzb3l1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ihrvec6q42Y0CdkSFn/giphy.gif">
+ <img hight="170" width="350" alt="GIF" align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhoMTJxZTR5NmFqaHhvZXh2b3dmdDlmbTZ1N3Qzdmw2aDdzb3l1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ihrvec6q42Y0CdkSFn/giphy.gif">
 
 ### - Estudando :
 - 💻 Desenvolvendo projetos pessoais
@@ -20,7 +19,7 @@
 
 </br>
 
-<h2 align="center">Languages and Tools:</h2> 
+<h2 align="right">Languages and Tools:</h2> 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img width="10" />
