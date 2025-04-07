@@ -1,5 +1,5 @@
 # Sobre mim 💬 :
-<h4 align:center>⚡ Desenvolvedor back-end Node, ruby e RoR. 
+<h4 align:center>⚡ Desenvolvedor back-end Java, ruby e RoR. 
 <h4/>
 
  <div align="left">
