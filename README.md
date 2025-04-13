@@ -7,7 +7,6 @@
  💻 Desenvolvendo projetos pessoais
  <br>
  <div align="left">
- <img hight="140" width="340" alt="GIF" align="right" src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FjczNhZ2pycnF3a2owN2k1cGQzZGdid3A2a3hsbzF4d2QzZ3B4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2O7qjP2EHgDlGdyoL1/giphy.gif>
   
  </div>
 
