@@ -1,55 +1,31 @@
-# Sobre mim 💬 :
-<h4 align: center-center>⚡ Desenvolvedor back-end Java, ruby e RoR. 
-<h4/>
- 👨‍💻 Análise e Desenvolvimento de Sistemas
- <br
-  
- 💻 Desenvolvendo projetos pessoais
- <br>
- <div align="left">
-  
- </div>
+#  About Me:
 
-</br>
+⚡ Desenvolvedor back-end Java, ruby e RoR.<br>  👨‍💻 Análise e Desenvolvimento de Sistemas<br>💻 Desenvolvendo projetos pessoais
 
-<h2 align="center">Languages and Tools:</h2> 
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge" height="30" alt="ruby logo"  />
-  <img width="10" />
- <br>
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
-</div>
-<br>
-<div align="center">
-  <a href="https://www.linkedin.com/in/matheus-oliveira-6a2607248/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-  <a href="matheusxeduardox@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="microsoft-outlook logo"  />
-  </a>
 
- <a href="https://leetcode.com/MatheusXedu/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=2D2D2D&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="leetcode logo"  />
-</a>
+# 💻 Tech Stack:
+
+<div align = "left">
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+ 
 </div>
 
-###
-<h2 align="center">  📊 Github Stats </h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusxEduardo&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=noctis_minimus&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusxEduardo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=noctis_minimus&hide_border=true" height="150" alt="languages graph"  />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheus-oliveira-6a2607248/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matheusxeduardox@outlook.com) 
+
+<div align = "center">
+
+# 📊 GitHub Stats:
+
+<div>
+
+![](https://github-readme-stats.vercel.app/api?username=MatheusxEduardo&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusxEduardo&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ 
 </div>
 
 
-
-
-
+ 
+</div>
