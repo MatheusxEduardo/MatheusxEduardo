@@ -17,8 +17,6 @@
 
 <div align = "center">
 
-# 📊 GitHub Stats:
-
 <div>
 
 ![](https://github-readme-stats.vercel.app/api?username=MatheusxEduardo&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)
